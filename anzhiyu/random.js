@@ -1,1 +1,1 @@
-var posts=["2022/10/02/TED/Markdown快速入门/","2022/10/06/TED/其二/","2022/10/03/前端/面试其一/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2022/10/10/css完全指南简介/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
