@@ -1,1 +1,1 @@
-var posts=["2022/10/14/写代码偶尔也得相信玄学/","2022/10/10/flex布局/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2022/10/10/flex布局/","2022/10/14/写代码偶尔也得相信玄学/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
